@@ -1,0 +1,19 @@
+.container{
+   display: flex;
+   align-items: center;
+   margin: 10px;
+}
+
+.button{
+    width: 30px;
+    color: black;
+    background-color: aquamarine;
+    font-size: 24px;
+    border: none;
+    border-radius: 2px;
+}
+
+.number{
+    font-size: 48px;
+    margin: 15px;
+}
